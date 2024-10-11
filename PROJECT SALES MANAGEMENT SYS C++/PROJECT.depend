@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1691003974 source:c:\users\krosss\onedrive\desktop\my codes\project\main.cpp
+	<iostream>
+	"Sales.h"
+	<stdlib.h>
+
+1690838122 c:\users\krosss\onedrive\desktop\my codes\project\sales.h
+	<string>
+	<stdlib.h>
+
+1691217348 source:c:\users\krosss\onedrive\desktop\my codes\project\sales.cpp
+	"Sales.h"
+	<iostream>
+	<stdlib.h>
+
